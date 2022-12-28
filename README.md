@@ -1,2 +1,2 @@
 # SymfonyTestApplication
-this is a test web application using Symfony 6 for the test stage
+this web application using Symfony 6 for a test of a stage of 1 month in AFRIGODIGIT
